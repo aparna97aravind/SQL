@@ -1,0 +1,13 @@
+body{
+  background-color: whitesmoke
+}
+
+.table{
+  width :400px;
+  border: 1px solid black;
+  background-color: rgb(173, 161, 173);
+}
+.table td{
+  padding-left: 157px;
+  padding-top: 5px;
+}
